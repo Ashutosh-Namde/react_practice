@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+#dark{
+  color:rgb(95, 218, 177);
+  background-color: rgb(9, 9, 34);
+}
+#light{
+  background-color: rgb(95, 218, 177);
+  color: rgb(9, 9, 34) ;
+}
