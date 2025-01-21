@@ -10,7 +10,7 @@ const Footer = () => {
             <h3 className="text-lg font-semibold mb-4">About PW Skills</h3>
             <p className="text-sm">
               PW Skills is dedicated to empowering learners with the skills they need to succeed in
-              today's competitive world. Join us for the best courses and resources to enhance your career.
+               competitive world. Join us for the best courses and resources to enhance your career.
             </p>
           </div>
 
